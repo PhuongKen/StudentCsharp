@@ -1,0 +1,11 @@
+E:\c#\StudentCsharp\StudentCsharp\bin\Debug\netcoreapp2.0\StudentCsharp.deps.json
+E:\c#\StudentCsharp\StudentCsharp\bin\Debug\netcoreapp2.0\StudentCsharp.runtimeconfig.json
+E:\c#\StudentCsharp\StudentCsharp\bin\Debug\netcoreapp2.0\StudentCsharp.runtimeconfig.dev.json
+E:\c#\StudentCsharp\StudentCsharp\bin\Debug\netcoreapp2.0\StudentCsharp.dll
+E:\c#\StudentCsharp\StudentCsharp\bin\Debug\netcoreapp2.0\StudentCsharp.pdb
+E:\c#\StudentCsharp\StudentCsharp\obj\Debug\netcoreapp2.0\StudentCsharp.csprojAssemblyReference.cache
+E:\c#\StudentCsharp\StudentCsharp\obj\Debug\netcoreapp2.0\StudentCsharp.csproj.CoreCompileInputs.cache
+E:\c#\StudentCsharp\StudentCsharp\obj\Debug\netcoreapp2.0\StudentCsharp.AssemblyInfoInputs.cache
+E:\c#\StudentCsharp\StudentCsharp\obj\Debug\netcoreapp2.0\StudentCsharp.AssemblyInfo.cs
+E:\c#\StudentCsharp\StudentCsharp\obj\Debug\netcoreapp2.0\StudentCsharp.dll
+E:\c#\StudentCsharp\StudentCsharp\obj\Debug\netcoreapp2.0\StudentCsharp.pdb
